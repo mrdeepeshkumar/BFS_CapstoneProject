@@ -1,4 +1,4 @@
-# BFS_CapstoneProject
+# Credit Card Risk Analysis
 
 # Objective:
 To help CredX identify the right customers using predictive models using past data of the bank’s applicants.
